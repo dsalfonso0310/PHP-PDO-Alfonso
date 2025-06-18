@@ -1,1 +1,4 @@
-# PHP-PDO-Alfonso
+# 
+Alfonso, Desarie S.
+BSCS
+IT6314
